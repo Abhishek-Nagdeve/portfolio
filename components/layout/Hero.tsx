@@ -99,9 +99,11 @@ export default function Hero() {
             </div>
             {/* CTA */}
             <div className="flex flex-wrap gap-4 animate-fade-in animation-delay-300">
-              <Button size="lg">
-                Contact Me <ArrowRight className="w-5 h-5" />
-              </Button>
+              <a href="#contact">
+                <Button size="lg">
+                  Contact Me <ArrowRight className="w-5 h-5" />
+                </Button>
+              </a>
               <AnimatedButton>
                 <Download className="w-5 h-5" />
                 Download CV
