@@ -94,7 +94,7 @@ export default function Hero() {
                 <span className="font-serif italic font-normal text-white">precision.</span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus assumenda facere ad debitis laboriosam magnam quae, iure velit in dolorem asperiores adipisci, eligendi
+              I design and build modern web applications that balance performance, usability, and clean architecture. My work focuses on creating systems that are easy to maintain, scale well, and deliver real value. I enjoy solving problems, refining ideas, and turning concepts into polished digital products.
               </p>
             </div>
             {/* CTA */}

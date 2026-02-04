@@ -6,35 +6,35 @@ import { useState } from "react";
 const testimonials = [
   {
     quote:
-      "Pedro is one of the most talented engineers I've worked with. His attention to detail and ability to translate complex requirements into elegant solutions is remarkable.",
-    author: "Sarah Chen",
-    role: "CTO, Tech Innovators Inc.",
+      "He quickly understood our requirements, suggested better technical approaches, and delivered a clean, scalable solution. The codebase was well-structured and easy to extend, which made future changes straightforward.",
+    author: "Abhijit Nagdeve",
+    role: "MD, Indrayani Industries",
     avatar:
-      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+      "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=100&h=100&fit=crop",
   },
   {
     quote:
-      "Working with Pedro was a game-changer for our project. He delivered ahead of schedule with code quality that set a new standard for our team.",
-    author: "Michael Rodriguez",
-    role: "Product Manager, Digital Solutions",
+      "Abhishek consistently writes clean, maintainable code and thinks carefully about architecture and performance. He’s reliable, detail-oriented, and comfortable handling complex technical challenges independently.",
+    author: "Sagar Jagtap",
+    role: "Senior Analyst, BNY Mellon",
     avatar:
-      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=100&h=100&fit=crop",
   },
   {
     quote:
-      "Pedro's expertise in React and TypeScript helped us rebuild our entire frontend in record time. His architectural decisions continue to pay dividends.",
-    author: "Emily Watson",
-    role: "Engineering Lead, StartUp Labs",
+      "Abhishek delivers features quickly without compromising on structure or scalability. His approach to system design and clean abstractions made the application stable, easy to maintain, and ready to grow.",
+    author: "Toufiq Pathan",
+    role: "Plant Head, Bellite Springs Pvt Ltd",
     avatar:
-      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop",
+      "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=100&h=100&fit=crop",
   },
   {
     quote:
-      "Not only is Pedro technically brilliant, but he's also a fantastic communicator and team player. He elevated everyone around him.",
-    author: "David Kim",
-    role: "CEO, Innovation Hub",
+      "He didn’t just build what we asked for — he helped us refine the solution and improve overall system reliability. Communication was clear, timelines were respected, and the final product exceeded expectations.",
+    author: "Sanket Pal",
+    role: "Admin Head, Bellite Springs Pvt Ltd",
     avatar:
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+      "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=100&h=100&fit=crop",
   },
 ];
 

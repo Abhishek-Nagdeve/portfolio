@@ -16,19 +16,19 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "pedro@example.com",
-    href: "mailto:pedro@example.com",
+    value: "abhishek.nagdeve@gmail.com",
+    href: "mailto:abhishek.nagdeve@gmail.com",
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+1 (555) 123-4567",
-    href: "tel:+15551234567",
+    value: "+918421772335",
+    href: "tel:+918421772335",
   },
   {
     icon: MapPin,
     label: "Location",
-    value: "San Francisco, CA",
+    value: "Nanded, MH, India",
     href: "#",
   },
 ];

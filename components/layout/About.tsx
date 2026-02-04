@@ -61,13 +61,13 @@ export default function About() {
             </h2>
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum velit error similique. Ipsam labore libero rem dolorem fuga sequi fugiat, provident id voluptate ex dolor eos perspiciatis reprehenderit eaque nam.
+                I’m a full-stack web developer with a strong focus on building scalable, maintainable, and performance-driven applications. I work primarily with modern frontend frameworks and backend systems, designing component-based architectures that emphasize code reuse, clarity, and long-term stability.
               </p>
               <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde autem blanditiis est beatae quae dicta atque, et aut? Omnis ab esse tempora iste necessitatibus odit, quam fuga suscipit quis voluptates explicabo voluptatibus sapiente alias aspernatur architecto sequi impedit quidem deserunt voluptate? Mollitia ut quos quidem, itaque assumenda obcaecati ullam quo?
+                On the frontend, I focus on clean UI architecture, state management, accessibility, and performance optimization. I enjoy working with design systems, reusable components, and well-structured layouts that translate product requirements into intuitive user experiences. On the backend, I design APIs, data models, and system flows that are efficient, secure, and easy to evolve as products grow.
               </p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta corporis ab, dolorem, dolor perspiciatis dolores laboriosam at voluptates blanditiis fugit, ipsam atque. Laudantium, voluptatem hic illo maiores molestiae fugiat officia.
+              I care deeply about software architecture, clean code practices, and system design. I’m comfortable working across the full stack — from database schemas and API contracts to frontend interactions and deployment pipelines. I enjoy breaking down complex problems, making thoughtful technical decisions, and building systems that perform reliably in real-world scenarios.
               </p>
             </div>
             <div className="glass rounded-2xl glow-border p-6 animate-fade-in animation-delay-300">
